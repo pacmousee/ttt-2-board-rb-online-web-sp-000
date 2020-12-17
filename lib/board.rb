@@ -1,2 +1,4 @@
 # Define the variable board below.
- row = [" "," "," "," "," "," "," "," "," "]
+def initialize
+  @board = array,new (9," ")
+end
